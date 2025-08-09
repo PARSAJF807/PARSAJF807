@@ -34,7 +34,7 @@
 <!-- ===== CONTACT SECTION ===== -->
 <h2 align="center" style="color: #1D4ED8; border-bottom: 2px solid #B91C1C; display: inline-block; padding-bottom: 5px; margin-top: 20px;">📫 Connect With Me</h2>
 <p align="center">
-  <a href="parsajf@hotmail.com">
+  <a href="mailto:parsajf@hotmail.com">
     <img src="https://img.shields.io/badge/Email-FFFFFF?style=for-the-badge&logo=gmail&logoColor=EA4335&color=0d1117" alt="Email">
   </a>
   <a href="https://t.me/parsaHackIntel">
