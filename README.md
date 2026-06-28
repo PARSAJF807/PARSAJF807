@@ -46,10 +46,10 @@
 <h2 align="center" style="color: #f0ede4; border-bottom: 2px solid #f0ede4; display: inline-block; padding-bottom: 5px; margin-top: 20px;">📫 Connect With Me</h2>
 
 <p align="center">
-  <a href="mailto:parsajf@hotmail.com">
+  <a href="mailto:">
     <img src="https://img.shields.io/badge/Email-f0ede4?style=for-the-badge&logo=gmail&logoColor=004741&color=004741" alt="Email">
   </a>
-  <a href="https://t.me/parsaHackIntel">
+  <a href="https://t.me/">
     <img src="https://img.shields.io/badge/Telegram-f0ede4?style=for-the-badge&logo=telegram&logoColor=004741&color=004741" alt="Telegram">
   </a>
 </p>
